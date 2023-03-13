@@ -6,7 +6,7 @@ I consider contributing to open source as a privilege and hope to make valuable 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Himangi-Malik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himangi-Malik&count_private=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himangi-Malik&count_private=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Himangi-Malik&theme=dark)](https://git.io/streak-stats)
 - "Turning Caffeine into Code" is my personal motto 😄☕
 <!--
