@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Himangi Malik
 
-I am pursuing my BTech in Electronics and Communication Engineering from Dr B.R. Ambedkar National Institute of Technology, Jalandhar (NITJ)
+I am pursuing my BTech in Electronics and Communication Engineering from Dr B.R. Ambedkar National Institute of Technology, Jalandhar (NITJ).
 I love creating things and programming is the my preferred tool💖
-I consider contributing to open source as a privilege and hope to make valuable contributions that make a real difference 😄 😄
+I consider contributing to open source as a privilege and hope to make valuable contributions that make a real difference! 😄 😄
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Himangi-Malik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
